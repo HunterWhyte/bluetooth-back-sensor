@@ -3,7 +3,7 @@ Bluetooth enabled spinal position monitoring and posture correction device
 
 This project was originally made for my grade 11 Health Science class
 
-![](app.png)
+![](appscreenshot.png)
 
 ![](product.jpg)
 
